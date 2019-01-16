@@ -36,5 +36,5 @@ public class CalculatorDemo3 {
 		ca2.sum();
 		ca2.avg();
 	}
-
+	//
 }
