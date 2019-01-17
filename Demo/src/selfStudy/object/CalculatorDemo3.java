@@ -23,6 +23,7 @@ class Calculator{
 public class CalculatorDemo3 {
 	
 	public static void main(String[] args) {
+		//객체 - 변수 + 메소드
 		//클래스 - 설계도, 인스턴스 - 구체적인 객체, 제품
 		//객체를 만든다는것은 "사용자정의 데이터타입을 만든다" 라고도 볼 수 있다.
 		//(데이터타입) (변수) (대입) (새로운) (객체 생성)
